@@ -6,4 +6,11 @@
 
 ---
 
-# Can we trust it?
+# Topics
+
+- Disrupt many industries
+- Ethical dilemma
+
+---
+
+## Disrupt many industries
