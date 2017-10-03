@@ -2,7 +2,7 @@
 
 ### by Lukas Herman
 
-![Driverless Cars](images/self-driving-car.jpg)
+<img src="images/self-driving-car.jpg" height="200">
 
 ---
 
