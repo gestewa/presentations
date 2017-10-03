@@ -8,9 +8,9 @@
 
 # Topics
 
-- Disrupt many industries
-- Ethical dilemma
+- Impacts on society
+- Ethical issues
 
 ---
 
-## Disrupt many industries
+# Impacts on Society
