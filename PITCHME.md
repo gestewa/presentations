@@ -15,6 +15,13 @@
 
 # Impacts on Society
 
+---
+
+## Job Loss
+
 > "When autonomous vehicle saturation peaks, U.S. drivers could see job losses at a rate of 25,000 a month, or 300,000 a year."
 
-by Goldman Sachs Economics Research
+by Goldman Sachs Economics Research [^footnote]
+
+
+[^footnote]: Job loss [Link](https://www.cnbc.com/2017/05/22/goldman-sachs-analysis-of-autonomous-vehicle-job-loss.html).
