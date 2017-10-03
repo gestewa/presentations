@@ -1,8 +1,8 @@
-# Self-Driving Car
+# Driverless Cars
 
 ### by Lukas Herman
 
-![Self-Driving Car](images/self-driving-car.jpg)
+![Driverless Cars](images/self-driving-car.jpg)
 
 ---
 
