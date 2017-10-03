@@ -25,4 +25,4 @@ by [Goldman Sachs Economics Research](https://www.cnbc.com/2017/05/22/goldman-sa
 
 ---
 
-<img src="images/driver-apocalypse.png" height="600">
+<img src="images/driver-apocalypse.png" height="550">
