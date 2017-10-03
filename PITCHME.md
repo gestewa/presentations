@@ -2,7 +2,7 @@
 
 ### by Lukas Herman
 
-<img src="images/self-driving-car.jpg" height="200">
+<img src="images/self-driving-car.jpg" height="250">
 
 ---
 
