@@ -74,4 +74,4 @@ by [CNBC](https://www.cnbc.com/2017/05/03/self-driving-cars-will-disrupt-10-indu
 
 ---
 
-![Github](images/github.png) [https://github.com/lherman-cs/presentations/tree/cpsc2910](https://github.com/lherman-cs/presentations/tree/cpsc2910)
+<img src="images/github.png" height="28"> https://github.com/lherman-cs/presentations/tree/cpsc2910
