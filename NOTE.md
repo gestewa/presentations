@@ -6,7 +6,7 @@
 ## Job losses in other industries
 
 - Parking
-  - You don't need to pay any parking ticket anymore. Your car can go to another place by itself to find a free parking lot. Another good news is if you are a college student, you don't need to pay an expensive parking decal like in Clemson.
+  - You don't need to pay any parking ticket anymore. Your car can go to another place by itself to find a free parking lot. Another good news is if you are a college student, you don't need to pay an expensive parking decal like in Clemson. ($162.00/year)
   
 - Hotel
   - This one also obviously will be disrupted. When people travel, they need to sleep in a hotel. They can just sleep in their cars while the cars keep driving to the destination.
