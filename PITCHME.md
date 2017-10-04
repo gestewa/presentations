@@ -29,14 +29,21 @@ by [Goldman Sachs Economics Research](https://www.cnbc.com/2017/05/22/goldman-sa
 
 ---
 
-### And more job losses in another industry
+### And more job losses in other industries
 
 - Parking
-- Real Estate
-- Law Enforcement 
-- Insurance
-- Legal Professionals
 - Hotel
+- Real Estate
+- Law Enforcement
+- Insurance
 - ...
 
 by [CNBC](https://www.cnbc.com/2017/05/03/self-driving-cars-will-disrupt-10-industries-commentary.html)
+
+---
+
+# Ethical Issues
+
+---
+
+
