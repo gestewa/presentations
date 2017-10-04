@@ -39,4 +39,4 @@ by [Goldman Sachs Economics Research](https://www.cnbc.com/2017/05/22/goldman-sa
 - Hotel
 - ...
 
-<sub><sup>by [CNBC](https://www.cnbc.com/2017/05/03/self-driving-cars-will-disrupt-10-industries-commentary.html)</sup></sub>
+by [CNBC](https://www.cnbc.com/2017/05/03/self-driving-cars-will-disrupt-10-industries-commentary.html)
