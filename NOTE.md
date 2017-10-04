@@ -38,7 +38,7 @@
  - This ethical dilemma is the most common issue we're having.
  - Let's say you're driving on a hill and your brake is not working. Then, you only have 2 choices: turn your car to an old couple or to a child.
  
-### Technology will never be perfect
+### Technology is not perfect
 
 - Based on my experience, driverless cars will not have a perfect accuracy. There is a definite probability that the cars will crash.
 - And this is not only from my opinion, but also from other experts. Early in this year, I went to an nvidia conference that is talking about driverless cars. Their company is now also doing a research in driverless cars. The car they introduced in that conference was BB8.
