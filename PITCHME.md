@@ -66,7 +66,7 @@ by [CNBC](https://www.cnbc.com/2017/05/03/self-driving-cars-will-disrupt-10-indu
 
 ## Black Box Problem
 
-<img src="images/black-box.png">
+<img src="images/black-box.png" height="200">
 
 ---
 
