@@ -56,7 +56,7 @@ Source: [CNBC](https://www.cnbc.com/2017/05/03/self-driving-cars-will-disrupt-10
 
 ## Technology is not perfect
 
-<img src="images/not-hotdog.png" height="400">
+<img src="images/not-hotdog.png" height="500">
 
 ---
 
