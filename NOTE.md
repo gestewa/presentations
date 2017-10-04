@@ -33,6 +33,9 @@
 
 - Based on my experience, driverless cars will not have a perfect accuracy. There is a definite probability that the cars will crash.
 - And this is not only from my opinion, but also from other experts. Early in this year, I went to an nvidia conference that is talking about driverless cars. Their company is now also doing a research in driverless cars. The car they introduced in that conference was BB8.
+
+## Conversation with an Nvidia engineer
+
 - After the conference ended, I had an opportunity to talk in person to one of the engineers. I asked him about the cars' accuracy. He told me, "The accuracy will not be 100%. That's for sure." Then, I asked him, "But, you programmed it. You should be able to debug it." Then, he replied me, "To be honest, I don't even know how the program will work. What we do is just doing some experiments. If the result is good then good. If it is bad then we have to change something."
 - Now, after I've done some research in this area, what he said was true. 
 
