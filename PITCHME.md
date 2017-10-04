@@ -48,7 +48,7 @@ Source: [CNBC](https://www.cnbc.com/2017/05/03/self-driving-cars-will-disrupt-10
 
 ## Trolley Problem
 
-<img src="images/trolley-problem.png" height="200">
+<img src="images/trolley-problem.jpg" height="200">
 
 > Which path will you choose?
 
