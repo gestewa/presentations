@@ -81,7 +81,7 @@ Source: [CNBC](https://www.cnbc.com/2017/05/03/self-driving-cars-will-disrupt-10
 
 ---
 
-> Can you trust your car if there is a definite possibility to kill you?
+> Will you trust your car if there is a definite possibility to kill you?
 
 ---
 
