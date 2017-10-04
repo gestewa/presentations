@@ -58,6 +58,12 @@ by [CNBC](https://www.cnbc.com/2017/05/03/self-driving-cars-will-disrupt-10-indu
 
 ---
 
+## Conversation with an nvidia engineer
+
+<img src="images/bb8.jpg" height="700">
+
+---
+
 ## Black Box Problem
 
 <img src="images/black-box.png">
