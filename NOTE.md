@@ -7,6 +7,8 @@
 
 ## Driving Job Loss
 
+- This is the most obvious one. Since we don't need a driver anymore, any job that requires a driver will be mostly disrupted.
+
 ## Job losses in other industries
 
 - Parking
