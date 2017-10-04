@@ -46,5 +46,22 @@ by [CNBC](https://www.cnbc.com/2017/05/03/self-driving-cars-will-disrupt-10-indu
 
 ---
 
+## Trolley Problem
 
+> Would you sacrifice an old couple or a child?
 
+---
+
+## Technology will never be perfect
+
+> Our world is too complex. We'll never reach 100% accuracy.
+
+---
+
+## Black Box Problem
+
+<img src="images/black-box.png">
+
+---
+
+> Can you trust your car that has a definite possibility to kill you?
