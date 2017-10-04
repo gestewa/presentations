@@ -60,7 +60,7 @@ by [CNBC](https://www.cnbc.com/2017/05/03/self-driving-cars-will-disrupt-10-indu
 
 ## Conversation with an Nvidia engineer
 
-<img src="images/bb8.jpg" height="500">
+<img src="images/bb8.jpg" height="400">
 
 ---
 
