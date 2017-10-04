@@ -26,3 +26,17 @@ by [Goldman Sachs Economics Research](https://www.cnbc.com/2017/05/22/goldman-sa
 ---
 
 <img src="images/driver-apocalypse.png" height="550">
+
+---
+
+## And more job losses in another industry
+
+- Parking
+- Real Estate
+- Law Enforcement 
+- Insurance
+- Legal Professionals
+- Hotel
+- ...
+
+by [CNBC](https://www.cnbc.com/2017/05/03/self-driving-cars-will-disrupt-10-industries-commentary.html)
