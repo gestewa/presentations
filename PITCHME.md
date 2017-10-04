@@ -2,7 +2,7 @@
 
 ### by Lukas Herman
 
-<img src="images/self-driving-car.jpg" height="250">
+<img src="images/driverless-cars.jpg" height="250">
 
 ---
 
@@ -45,5 +45,6 @@ by [CNBC](https://www.cnbc.com/2017/05/03/self-driving-cars-will-disrupt-10-indu
 # Ethical Issues
 
 ---
+
 
 
