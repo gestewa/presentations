@@ -48,7 +48,9 @@ Source: [CNBC](https://www.cnbc.com/2017/05/03/self-driving-cars-will-disrupt-10
 
 ## Trolley Problem
 
-> Would you sacrifice an old couple or a child?
+<img src="images/trolley-problem.png" height="200">
+
+> Which path will you choose?
 
 ---
 
