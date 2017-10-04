@@ -56,7 +56,7 @@ Source: [CNBC](https://www.cnbc.com/2017/05/03/self-driving-cars-will-disrupt-10
 
 ## Technology will never be perfect
 
-<img src="images/not-hotdog.jpg" height="400">
+<img src="images/not-hotdog.png" height="400">
 
 > Our world is too complex. We'll never reach 100% accuracy.
 
