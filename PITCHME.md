@@ -70,4 +70,6 @@ by [CNBC](https://www.cnbc.com/2017/05/03/self-driving-cars-will-disrupt-10-indu
 
 ---
 
+# Conclusion
+
 > Can you trust your car that has a definite possibility to kill you?
