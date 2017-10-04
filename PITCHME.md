@@ -60,7 +60,7 @@ Source: [CNBC](https://www.cnbc.com/2017/05/03/self-driving-cars-will-disrupt-10
 
 ---
 
-## Conversation with an Nvidia engineer
+### Conversation with an Nvidia engineer
 
 <img src="images/bb8.jpg" height="400">
 
@@ -69,6 +69,15 @@ Source: [CNBC](https://www.cnbc.com/2017/05/03/self-driving-cars-will-disrupt-10
 ## Black Box Problem
 
 <img src="images/black-box.png" height="200">
+
+---
+
+## Review
+
+- Job losses
+- Trolley problem
+- Technology is not perfect
+- Black box problem
 
 ---
 
