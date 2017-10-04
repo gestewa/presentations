@@ -21,7 +21,7 @@
 
 > "When autonomous vehicle saturation peaks, U.S. drivers could see job losses at a rate of 25,000 a month."
 
-by [Goldman Sachs Economics Research](https://www.cnbc.com/2017/05/22/goldman-sachs-analysis-of-autonomous-vehicle-job-loss.html)
+Source: [Goldman Sachs Economics Research](https://www.cnbc.com/2017/05/22/goldman-sachs-analysis-of-autonomous-vehicle-job-loss.html)
 
 ---
 
@@ -38,7 +38,7 @@ by [Goldman Sachs Economics Research](https://www.cnbc.com/2017/05/22/goldman-sa
 - Insurance
 - ...
 
-by [CNBC](https://www.cnbc.com/2017/05/03/self-driving-cars-will-disrupt-10-industries-commentary.html)
+Source: [CNBC](https://www.cnbc.com/2017/05/03/self-driving-cars-will-disrupt-10-industries-commentary.html)
 
 ---
 
