@@ -74,10 +74,12 @@ Source: [CNBC](https://www.cnbc.com/2017/05/03/self-driving-cars-will-disrupt-10
 
 ## Review
 
-- Job losses
-- Trolley problem
-- Technology is not perfect
-- Black box problem
+- Impacts on society
+  - Job losses
+- Ethical issues
+  - Trolley problem
+  - Technology is not perfect
+  - Black box problem
 
 ---
 
