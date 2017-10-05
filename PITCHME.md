@@ -29,7 +29,7 @@ Source: [Goldman Sachs Economics Research](https://www.cnbc.com/2017/05/22/goldm
 
 ---
 
-### And more job losses in other industries
+### And more losses in other industries
 
 - Parking
 - Hotel
@@ -76,6 +76,7 @@ Source: [CNBC](https://www.cnbc.com/2017/05/03/self-driving-cars-will-disrupt-10
 
 - Impacts on society
   - Job losses
+  - Losses in other industries
 - Ethical issues
   - Trolley problem
   - Technology is not perfect
