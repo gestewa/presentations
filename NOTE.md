@@ -5,14 +5,14 @@
 
 - Tell my background: Right now, I work with 2 graduate students in a deep learning project. Though I can't tell you the detail of our project, I just want to tell you that we've been researching how things work internally. Things that we have been researching is related to driverless cars.
 
-## Impact on society
+## Impacts on society
 ---
 
 ### Driving Job Loss
 
 - This is the most obvious one. Since we don't need a driver anymore, any job that requires a driver will be mostly disrupted.
 
-### Job losses in other industries
+### Losses in other industries
 
 - Parking
   - You don't need to pay any parking ticket anymore. Your car can go to another place by itself to find a free parking lot. Another good news is if you are a college student, you don't need to pay an expensive parking decal like in Clemson. ($162.00/year)
