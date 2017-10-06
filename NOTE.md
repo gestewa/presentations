@@ -5,6 +5,8 @@
 
 - Tell my background: Right now, I work with 2 graduate students in a deep learning project. Though I can't tell you the detail of our project, I just want to tell you that we've been researching how things work internally. Things that we have been researching is related to driverless cars.
 
+- Talk about movies
+
 ## Impacts on society
 ---
 
@@ -52,7 +54,6 @@
 
 - Until now, we still can't crack the "black box." This problem is still a big area of research.
 - Moreover, we still even don't know why this technique can be successful.
-- Terminator
 
 ---
 
