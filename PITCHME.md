@@ -75,7 +75,7 @@ Source: [CNBC](https://www.cnbc.com/2017/05/03/self-driving-cars-will-disrupt-10
 ## Review
 
 - Impacts on society
-  - Job losses
+  - Driving job losses
   - Losses in other industries
 - Ethical issues
   - Trolley problem
