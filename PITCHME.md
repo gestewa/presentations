@@ -211,7 +211,7 @@ when someone uses an RFID reader to scan data from an RFID chip without the e-pa
 
 ---
 ### Technological progress => better lives for everyone
-<img src="images/image72.png" height="550">
+<img src="images/image72.jpg" height="550">
 
 ---
 ### Unquestionably Technology has vast potential, and it's responsible implementation is up to us
