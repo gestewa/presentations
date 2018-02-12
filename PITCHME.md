@@ -143,10 +143,6 @@ when someone uses an RFID reader to scan data from an RFID chip without the e-pa
 <img src="images/image56.jpg" height="550">
 
 ---
-### Unessisary? Premature?
-<img src="images/image83.jpg" height="550">
-
----
 # AI
 <img src="images/image63.jpg" height="550">
 
@@ -237,4 +233,9 @@ http://www.trucking.org/News_and_Information_Reports_Industry_Data.aspx
 ### Singularity
 > the point in time when human beings are no longer the most intelligent beings on earth
 <img src="images/image84.jpg" height="550">
+
+---
+### Unessisary? Premature?
+<img src="images/image83.jpg" height="550">
+
 
