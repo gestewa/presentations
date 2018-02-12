@@ -198,7 +198,7 @@ when someone uses an RFID reader to scan data from an RFID chip without the e-pa
     - 10x less workers 
 ---
 ### Genocide?
-<img src="images/image78.png" height="550">
+<img src="images/image78.jpg" height="550">
 <img src="images/image55.jpg" height="550">
 
 ---
