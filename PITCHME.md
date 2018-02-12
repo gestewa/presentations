@@ -153,12 +153,6 @@ when someone uses an RFID reader to scan data from an RFID chip without the e-pa
 ---
 ### 500 hours Lip Read
 ### Tumor Outcome
----
-### Eugene Goostman
-<img src="images/image70.png" height="550">
-
----
-<img src="images/image75.png" height="550">
 
 ---
 - immediately obserbable characteristics
@@ -177,26 +171,16 @@ when someone uses an RFID reader to scan data from an RFID chip without the e-pa
 - lower risk of accidents
 
 ---
-### Compensation via contribution
-<img src="images/image64.png" height="550">
-
----
 ### 5% 
 - more complex roles
 - pre-industrialized world
+<img src="images/image64.png" height="550">
 
 ---
 ### Wage Gap
 - Detroit vs Silicone Valley
     - same money made
     - 10x less workers 
----
-### Genocide?
-<img src="images/image78.jpg" height="550">
-<img src="images/image55.jpg" height="550">
-
----
-<img src="images/image68.png" height="550">
 
 ---
 ### Technological progress => better lives for everyone
@@ -233,6 +217,19 @@ http://www.trucking.org/News_and_Information_Reports_Industry_Data.aspx
 ### Singularity
 > the point in time when human beings are no longer the most intelligent beings on earth
 <img src="images/image84.jpg" height="550">
+
+---
+### Genocide?
+<img src="images/image78.jpg" height="550">
+<img src="images/image55.jpg" height="550">
+
+---
+<img src="images/image68.png" height="550">
+
+---
+### Eugene Goostman
+<img src="images/image70.png" height="550">
+
 
 ---
 ### Unessisary? Premature?
