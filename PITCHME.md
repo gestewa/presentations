@@ -83,14 +83,15 @@ when someone uses an RFID reader to scan data from an RFID chip without the e-pa
 ---
 
 ### Animal chipping for pets 
+<img src="images/image2.jpg" height="550">
 
-<img src="images/image66.jpg" height="550">
+---
 
 ### Human chipping
 - emergency contact information and medical histories
     - Alzheimer's
+<img src="images/image66.jpg" height="550">
 
-<img src="images/image2.jpg" height="550">
 ---
 ### Babies 
    - kidnapping
