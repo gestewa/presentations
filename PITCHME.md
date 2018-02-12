@@ -97,7 +97,6 @@ when someone uses an RFID reader to scan data from an RFID chip without the e-pa
    - SIDS
 --- 
 ### "The [store] shelves themselves will communicate wirelessly with the network"
- <img src="images/image24.jpg" height="550">
  
 ---
 ### Will human chipping become mandatory? 
