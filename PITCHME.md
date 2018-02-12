@@ -32,7 +32,7 @@
      - antenna
      - battery (sometimes)
 
-<img src="images/image89.png" height="550">
+<img src="images/image89.gif" height="550">
 
 ---
 
