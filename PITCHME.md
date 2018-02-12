@@ -229,8 +229,16 @@ when someone uses an RFID reader to scan data from an RFID chip without the e-pa
 <img src="images/singularity.jpg" height="550">
 
 ---
+## Works Cited
+https://science.howstuffworks.com/nanotechnology6.htm
+https://electronics.howstuffworks.com/gadgets/high-tech-gadgets/rfid.htm
+https://www.weforum.org/agenda/2016/10/top-10-ethical-issues-in-artificial-intelligence/
+https://www.youtube.com/watch?v=IJKjMIU55pE
+http://www.trucking.org/News_and_Information_Reports_Industry_Data.aspx
+
+---
 
 <i class="fa fa-github fa-5x" aria-hidden="true"></i>
 <p>
-   <small> github.com/lherman-cs/presentations/tree/cpsc2910</small>
+   <small> github.com/gestewa/presentations/tree/cpsc2910</small>
 </p>
