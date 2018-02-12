@@ -62,7 +62,9 @@
 
 ---
 ## Hackers
-- have proven that some RFID tags can be tampered with, including disabling their anti-theft features and changing the price that corresponds to their product
+- proven some RFID tags can be tampered with
+    - disabling their anti-theft features
+    - changing the price
 ---
 ### Skimming: 
 when someone uses an RFID reader to scan data from an RFID chip without the e-passport holder's knowledge.
