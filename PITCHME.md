@@ -173,8 +173,8 @@ when someone uses an RFID reader to scan data from an RFID chip without the e-pa
 
 ---
 ## Labor
-> 3.5 million truck drivers
-> lower risk of accidents
+- 3.5 million truck drivers
+- lower risk of accidents
 
 ---
 ### We base compensation on contribution to the economy
