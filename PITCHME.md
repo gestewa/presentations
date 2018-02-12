@@ -1,6 +1,6 @@
-# Driverless Cars
+# RFID, Nanotec, and AI
 
-### by Lukas Herman
+### by Gabrielle Stewart
 
 <img src="images/driverless-cars.jpg" height="250">
 
@@ -8,71 +8,225 @@
 
 # Topics
 
+- How it works
 - Impacts on society
 - Ethical issues
 
 ---
 
-# Impacts on Society
+# RFID
+
+<img src="images/image79.jpg" height="550">
 
 ---
 
-## Driving Job Loss
-
-> "When autonomous vehicle saturation peaks, U.S. drivers could see job losses at a rate of 25,000 a month."
-
-Source: [Goldman Sachs Economics Research](https://www.cnbc.com/2017/05/22/goldman-sachs-analysis-of-autonomous-vehicle-job-loss.html)
-
----
-
-<img src="images/driver-apocalypse.png" height="550">
+### History 
+- since 1970
+- too expensive for large scale until recently
+- tracked:
+    -  cows
+    -  railroad cars 
+    -  airline luggage
 
 ---
 
-### And more losses in other industries
-
-- Parking
-- Hotel
-- Real Estate
-- Law Enforcement
-- Insurance
-- ...
-
-Source: [CNBC](https://www.cnbc.com/2017/05/03/self-driving-cars-will-disrupt-10-industries-commentary.html)
+<img src="images/image57.jpg" height="550">
 
 ---
 
-# Ethical Issues
+### Technology
+
+ - often 2 kilobytes of data 
+ - composed of 
+     - microchip
+     - antenna
+     - battery (sometimes)
+
+<img src="images/image89.jpg" height="550">
 
 ---
 
-## Trolley Problem
+### accessible and popularized
+ - toll passcards
+ - subway passes
 
-<img src="images/trolley-problem.jpg" height="300">
-
-> Which path will you choose?
-
----
-
-## Technology is not perfect
-
-<img src="images/not-hotdog.png" height="500">
+<img src="images/image1.jpg" height="550">
 
 ---
 
-### Conversation with an Nvidia engineer
+### less expensive to produce
+ - Passive
+     - 20 ft
+     - 7 - 10 cents
+     - objective = 5 cents
 
-<img src="images/bb8.jpg" height="400">
-
----
-
-## Black Box Problem
-
-<img src="images/black-box.png" height="200">
+<img src="images/image59.jpg" height="550">
 
 ---
 
-> Will you trust your car if there is a definite possibility to kill you?
+### Department of State & Department of Homeland Security (DHS)
+ - issuing electronic passports
+ - digital signature 
+ - photograph
+ - biometric identifier
+
+<img src="images/image80.jpg" height="550">
+
+---
+## Hackers
+- have proven that some RFID tags can be tampered with, including disabling their anti-theft features and changing the price that corresponds to their product
+---
+### Skimming: 
+when someone uses an RFID reader to scan data from an RFID chip without the e-passport holder's knowledge.
+
+---
+### NFC chips
+ -  tapped against instead of swiped fix skimming problem
+
+<img src="images/image82.jpg" height="550">
+
+---
+
+### Eavesdropping: 
+ - when someone reads the frequencies emitted from the RFID chip as it is scanned by an official reader.
+
+---
+
+### Animal chipping for pets 
+
+<img src="images/image66.jpg" height="550">
+
+### Human chipping
+- emergency contact information and medical histories
+    - Alzheimer's
+
+<img src="images/image2.jpg" height="550">
+---
+### Babies 
+   - kidnapping
+   - SIDS
+--- 
+### "The [store] shelves themselves will communicate wirelessly with the network"
+ <img src="images/image24.jpg" height="550">
+ 
+---
+### Will human chipping become mandatory? 
+
+### Would you entrust your medical history to an RFID tag?
+
+### How about your home address or your baby's safety? 
+<img src="images/image81.jpg" height="550">
+
+---
+
+# Nanotechnology
+
+<img src="images/image54.jpg" height="300">
+
+- 1/1,000,000,000 of a meter
+---
+### 1,600-year-old Roman chalice
+<img src="images/image58.jpg" height="550">
+
+### 1989
+<img src="images/image100.png" height="550">
+
+---
+### Microprocessors Weaponry Medicine
+<img src="images/image87.jpg" height="550">
+
+---
+### Quantum Mechanics
+- teleportation and electron tunneling
+<img src="images/image67.jpg" height="550">
+---
+### Blood Brain Barrier
+- toxic
+<img src="images/image86.jpg" height="550">
+---
+### Buckypaper
+-  10 times lighter
+-  500 times stronger
+<img src="images/image21.jpg" height="550">
+
+---
+### Rapid healing to night vision
+- Two races of people
+### World's economy?
+- Manufacturing
+<img src="images/image56.jpg" height="550">
+---
+### Unessisary? Premature?
+<img src="images/image83.jpg" height="550">
+
+---
+# AI
+<img src="images/image63.jpg" height="550">
+
+---
+### Patterns
+<img src="images/image69.jpg" height="550">
+
+---
+### 500 hours Lip Read
+### Tumor Outcome
+---
+### Eugene Goostman
+<img src="images/image70.png" height="550">
+
+---
+<img src="images/image75.png" height="550">
+
+---
+- immediately obserbable characteristics
+- lack abstract model
+<img src="images/image85.png" height="550">
+---
+<img src="images/image22.png" height="550">
+
+---
+<img src="images/image88.jpg" height="550">
+<img src="images/image62.png" height="550">
+
+---
+## Labor
+> 3.5 million truck drivers
+> lower risk of accidents
+
+---
+### We base compensation on contribution to the economy
+<img src="images/image64.png" height="550">
+
+---
+### 5% 
+- more complex roles
+- pre-industrialized world
+
+---
+### Wage Gap
+- Detroit vs Silicone Valley
+    - same money made
+    - 10x less workers 
+---
+### Genocide?
+<img src="images/image78.png" height="550">
+<img src="images/image55.jpg" height="550">
+
+---
+<img src="images/image68.png" height="550">
+
+---
+### Singularity
+> the point in time when human beings are no longer the most intelligent beings on earth
+<img src="images/image84.jpg" height="550">
+
+---
+### Technological progress => better lives for everyone
+<img src="images/image72.png" height="550">
+
+---
+### Unquestionably Technology has vast potential, and it's responsible implementation is up to us
+<img src="images/singularity.jpg" height="550">
 
 ---
 
