@@ -1,4 +1,4 @@
-# RFID, Nanotec, and AI
+# RFID, Nanotech, and AI
 
 ### by Gabrielle Stewart
 
@@ -32,7 +32,7 @@
      - antenna
      - battery (sometimes)
 
-<img src="images/image89.jpg" height="550">
+<img src="images/image89.png" height="550">
 
 ---
 
