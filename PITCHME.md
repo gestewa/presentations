@@ -177,7 +177,7 @@ when someone uses an RFID reader to scan data from an RFID chip without the e-pa
 - lower risk of accidents
 
 ---
-### We base compensation on contribution to the economy
+### Compensation via contribution
 <img src="images/image64.png" height="550">
 
 ---
