@@ -2,16 +2,6 @@
 
 ### by Gabrielle Stewart
 
-<img src="images/driverless-cars.jpg" height="250">
-
----
-
-# Topics
-
-- How it works
-- Impacts on society
-- Ethical issues
-
 ---
 
 # RFID
