@@ -60,7 +60,7 @@
  - photograph
  - biometric identifier
 
-<img src="images/image80.jpg" height="550">
+<img src="images/image80.png" height="550">
 
 ---
 ## Hackers
