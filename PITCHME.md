@@ -43,8 +43,6 @@
 <img src="images/image1.jpg" height="550">
 
 ---
-
-### less expensive to produce
  - Passive
      - 20 ft
      - 7 - 10 cents
