@@ -101,10 +101,6 @@ when someone uses an RFID reader to scan data from an RFID chip without the e-pa
  
 ---
 ### Will human chipping become mandatory? 
-
-### Would you entrust your medical history to an RFID tag?
-
-### How about your home address or your baby's safety? 
 <img src="images/image81.jpg" height="550">
 
 ---
@@ -140,11 +136,10 @@ when someone uses an RFID reader to scan data from an RFID chip without the e-pa
 <img src="images/image21.jpg" height="550">
 
 ---
-### Rapid healing to night vision
-- Two races of people
 ### World's economy?
 - Manufacturing
 <img src="images/image56.jpg" height="550">
+
 ---
 ### Unessisary? Premature?
 <img src="images/image83.jpg" height="550">
@@ -206,11 +201,6 @@ when someone uses an RFID reader to scan data from an RFID chip without the e-pa
 <img src="images/image68.png" height="550">
 
 ---
-### Singularity
-> the point in time when human beings are no longer the most intelligent beings on earth
-<img src="images/image84.jpg" height="550">
-
----
 ### Technological progress => better lives for everyone
 <img src="images/image72.jpg" height="550">
 
@@ -232,3 +222,17 @@ http://www.trucking.org/News_and_Information_Reports_Industry_Data.aspx
 <p>
    <small> github.com/gestewa/presentations/tree/cpsc2910</small>
 </p>
+---
+
+### Would you entrust your medical history to an RFID tag?
+
+### How about your home address or your baby's safety? 
+
+---
+### Rapid healing to night vision
+- Two races of people
+---
+### Singularity
+> the point in time when human beings are no longer the most intelligent beings on earth
+<img src="images/image84.jpg" height="550">
+
