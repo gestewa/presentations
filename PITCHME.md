@@ -1,4 +1,4 @@
-# RFID, Nanotech, and AI
+# RFID, Nanotech, & AI
 
 ### by Gabrielle Stewart
 
